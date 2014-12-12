@@ -1,99 +1,17 @@
 <html>
 <head>
+
+<meta HTTP-EQUIV="REFRESH" content="5; url=http://www.SocioLotto.com">
+
 <title>SocioLotto</title>
+<link rel="shortcut icon" href="favicon.ico"/>
+<link rel="ICON" href="favicon.ico" type="image/ico" />
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-55898640-1', 'auto');
-  ga('send', 'pageview');
-</script>
-
-<style type="text/css">
-	body {
-		color: black;
-		/*background-color: #F54040;*/
-		font-family: Helvetica, sans-serif;;
-		margin: 0;}
-	img.logo {
-		position: absolute;
-		top: 0;
-		bottom: 0;
-		left: 0;
-		right: 0;
-		margin: auto;
-    		max-height: 90%;
-		width: auto;
-    		height: auto\9; /* ie8 */}
-	#uppergradient {
-		position: absolute;
-		top: 0;
-		bottom: 0;
-		left: 0;
-		right: 0;
-		background: -webkit-radial-gradient(#F54040, #F54040, #9F1515); /* Safari 5.1 to 6.0 */
-		background: -o-radial-gradient(#F54040, #F54040, #9F1515); /* For Opera 11.6 to 12.0 */
-		background: -moz-radial-gradient(#F54040, #F54040, #f52525); /* For Firefox 3.6 to 15 */
-		background: radial-gradient(#F54040, #F54040, #f52525); /* Standard syntax */}
-	#header {
-		position: absolute;
-		bottom: 0;
-		color: white;
-		text-align: center;
-		width: 100%;}
-	#page2 {
-		position: absolute;
-		top: 100%;
-		width:100%;
-		color: black;
-		background-color: white;}
-	#info {
-		margin: 5%}
-</style>
 </head>
+
 <body>
-	<div id="uppergradient">
-	<a href="#page2"><img class="logo" src="socio4_faint_base5_alpha.png" alt="" /></a>
-	<div id="header">
-		<p><span style="font-size: 80; font-family: Times, serif;">S</span><span style="font-size: 40; font-family: Times, serif">ocioLotto</span>
-		<p><span style="font-size: 12; color: #FA9494"><b><!--v--></b></span>
-	</div>
-	</div>
-	<div id="page2">
-		<p style="font-size: 24; font-family: Times, serif; text-align: center"><i>the social lottery</i>
-		<br>
-		<div id="info">
-			<table>
-			<tr>
-			<td style="width:70%; min-width:300px">
-				<span style="font-size: 30; color: #F54040"><b>What is SocioLotto?</b></span>
-				<br>
-				SocioLotto works like a lottery. Each day one winner is chosen and their message is broadcast to everyone. It's like winning the social lottery. Best of all it's <b>free</b>, <b>anonymous</b>, and <b>no registration</b> or <b>crazy phone permissions</b> are required. So go for it and play today!
-				<br><br>
-				<img src="notifweb.jpg" style="height: 200px; display: block; margin-left: auto; margin-right: auto" alt="phone notification">
-				<br>
-				<span style="font-size: 30; color: #F54040"><b>Why SocioLotto?</b></span>
-				</br>			
-				Because ~1.6 billion people use social media. Even if you have 1000 friends/followers, only 0.000000625% of the social media world is hearing what you have to say. SocioLotto is your chance to be heard by everyone.
-				<br><br>
-				<p><b>Try it today from the Google Play store and be heard by the world.</b>
-				<br><br>
-				<a href="https://play.google.com/store/apps/details?id=com.hobbesrory.chosen">
-				  <img alt="Get it on Google Play"
-				       src="en_generic_rgb_wo_45.png" />
-				</a><br>
-				<p style="font-size: 12">What about iPhone/Pad? - Resources have only been available to develop SocioLotto for Android. However, we are considering developing for iDevices if there is demand. Please contact us below to let us know if you would be interested in seeing SocioLotto on the iPhone and iPad.
-				<br><br>
-				<p>Contact us at <a href="mailto:SocioLotto@gmail.com" style="color: #F54040; text-decoration: none; font-weight: bold;">SocioLotto@gmail.com</a>, we really do care what you have to say
-			</td>
-			<td style="width:30%; min-width:300px">
-				<img src="mainweb.jpg" style="width: 100%" alt="phone main screen">
-			</td>
-			</tr>
-		</div>
-	</div>
+<br>
+<br>
+<center><h2>This page has moved to <a href="http://www.sociolotto.com">www.SocioLotto.com</a>. Redirecting...</h2><center>
 </body>
 </html>
